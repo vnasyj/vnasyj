@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [support vector machine](https://github.com/vnasyj/svm-kernal.git)
 
-- 🌱 I’m currently learning **python, sklearn, cnn, rnn**
+- 🌱 I’m currently learning **python, sklearn, CNN, RNN**
 
 - 📫 How to reach me **vnasyj@gmail.com**
 
