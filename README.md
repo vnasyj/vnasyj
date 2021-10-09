@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vikash Gupta</h1>
-<h3 align="center">A passionate full stack developer& specially in data science</h3>
+<h3 align="center">A passionate full stack developer & specially in data science 💻</h3>
+<h4 align="left">quotes that special for me ❤️ </h3>
+<h4 align="left">We don't known action of universe but on observing long time we can predict the future events- My line</h3>
+<h4 align="left">We can see only short distance ahead, but we can see plenty there that need to be done- Alan Turing</h3>
 
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/2880/1*RIrPOCyMFwFC-XULbja3rw.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vnasyj&label=Profile%20views&color=0e75b6&style=flat" alt="vnasyj" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vnasyj" alt="vnasyj" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/v2000844" target="blank"><img src="https://img.shields.io/twitter/follow/v2000844?logo=twitter&style=for-the-badge" alt="v2000844" /></a> </p>
 
 - 🔭 I’m currently working on [support vector machine](https://github.com/vnasyj/svm-kernal.git)
@@ -13,7 +14,7 @@
 
 - 📫 How to reach me **vnasyj@gmail.com**
 
-- ⚡ Fun fact **i think i will be 2nd alan turing**
+- ⚡ Fun fact **i think i would be 2nd alan turing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
