@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikash Gupta</h1>
-<h3 align="center">A passionate full stack developer & specially in data science 💻</h3>
+<h3 align="center">A passionate full-stack developer & especially in data science 💻</h3>
 <h4 align="left">quotes that special for me ❤️ </h3>
 <h4 align="left">We don't known action of universe but on observing long time we can predict the future events- My line</h3>
 <h4 align="left">We can see only short distance ahead, but we can see plenty there that need to be done- Alan Turing</h3>
